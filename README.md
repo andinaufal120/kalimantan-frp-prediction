@@ -85,6 +85,10 @@ Per-fold metrics (mean ± std across 11 folds), evaluated on log1p-transformed F
 - `artifacts/reports/` — AutoGluon per-fold results and leaderboards (`ag_results.csv`, `ag_leaderboard.csv`).
 - `artifacts/models/` — Saved AutoGluon predictor.
 
+## Citation
+
+If you use this software or dataset, please cite it using the metadata in [CITATION.cff](CITATION.cff).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
