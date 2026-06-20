@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+title: "Kalimantan FRP Estimation: Machine Learning Pipeline and Dataset for Fire Radiative Power Estimation in Peatland-Prone Areas"
+authors:
+  - family-names: Nurfadhil
+    given-names: "Andi Naufal"
+  - family-names: Prayogi
+    given-names: "Bhisma Aprian"
+  - family-names: Wowor
+    given-names: "Benediktus Aldreno Fabian"
+  - family-names: Putra
+    given-names: "Rizal Kusuma"
+repository-code: "https://github.com/andinaufal120/kalimantan-frp-prediction"
+license: MIT
+date-released: "2026-06-19"
+keywords:
+  - fire radiative power
+  - peatland fires
+  - remote sensing
+  - machine learning
+  - automated machine learning
+# preferred-citation:
+#   type: article
+#   title: "Estimation of Fire Radiative Power (FRP) Based on Daily Air Conditions in Kalimantan in Areas Prone to Land Fires Using a Machine Learning Approach"
+#   authors:
+#     - family-names: Nurfadhil
+#       given-names: "Andi Naufal"
+#     - family-names: Prayogi
+#       given-names: "Bhisma Aprian"
+#     - family-names: Wowor
+#       given-names: "Benediktus Aldreno Fabian"
+#     - family-names: Putra
+#       given-names: "Rizal Kusuma"
